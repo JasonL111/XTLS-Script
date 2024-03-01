@@ -1,4 +1,4 @@
-# XTLS-Script
+# XTLS-Script(Haven't finished yet)
 Set up Vless+Xtls server automaticly
 ## Notice
 It's for Debian(11)
